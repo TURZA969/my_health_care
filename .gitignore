@@ -1,0 +1,6 @@
+﻿my_health_care/lib/firebase.json
+my_health_care/node_modules/
+my_health_care/build/
+my_health_care/.dart_tool/
+my_health_care/.idea/
+.env
